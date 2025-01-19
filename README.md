@@ -1,3 +1,3 @@
 # Personal Website
 
-Access website at [your-github-username.github.io](http://your-github-username.github.io).
+Access website at [simonskodt.github.io](simonskodt.github.io).
