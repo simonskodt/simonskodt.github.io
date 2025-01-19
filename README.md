@@ -1,3 +1,5 @@
-# Personal Website
+# 🌐 Portfolio Website
 
-Access website at [http://simonskodt.github.io](http://simonskodt.github.io).
+Access website at [https://simonskodt.github.io](https://simonskodt.github.io) 🌍.
+
+This website was built with Notion.
